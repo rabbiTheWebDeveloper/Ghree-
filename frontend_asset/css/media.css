@@ -1,0 +1,51 @@
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (max-width: 1440px) {
+    
+
+
+}
+
+
+/* // XX-Large devices (larger desktops, 1024px and up) */
+@media (max-width: 1024px) {
+    
+
+
+}
+
+/* // XX-Large devices (larger desktops, 1024px and up) */
+@media (max-width: 767.99px) {
+    .order_contain{
+        padding: 58px 0;
+    }
+    #order .order_contain h3{
+        font-family: 'Li Ador Noirrit';
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 79px;
+        text-align: center;
+        color: #092E67;
+    }
+    #order .order_contain h5{
+        font-family: 'Li Ador Noirrit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    text-align: center;
+    color: #092E67;
+    }
+    #order .order_contain a button{
+        background: #FECB02;
+    border-radius: 127px;
+    padding: 20px 35px;
+    font-family: 'Li Ador Noirrit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 42px;
+    margin-top: 20px;
+    }
+
+
+}
